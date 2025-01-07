@@ -1,0 +1,11 @@
+docker
+putty
+postman
+pgadmin
+git
+BCompare
+vs code
+brave
+node
+java
+python
